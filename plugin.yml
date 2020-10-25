@@ -1,0 +1,7 @@
+main: me.xrexy.customentity.CustomEntitySpawnExamples
+
+name: CustomEntity
+description: Just an example plugin how to use the "CustomEntity" enum class
+
+author: xrexy
+version: V1.0.0
